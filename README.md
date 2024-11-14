@@ -114,7 +114,8 @@ Publish the website in the given URL.
 
 ![image](https://github.com/user-attachments/assets/ec849b92-1b40-4dba-a437-5d1933f2ffbf)
 
-![image](https://github.com/user-attachments/assets/ca14e3d8-ebff-458f-89fa-e7880698cd90)
+![image](https://github.com/user-attachments/assets/634d6415-c7da-47d2-8123-8ac9fff418f2)
+
 
 
 
