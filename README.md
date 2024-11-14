@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date: 13.11.2024
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -114,7 +114,8 @@ Publish the website in the given URL.
 
 ![image](https://github.com/user-attachments/assets/ec849b92-1b40-4dba-a437-5d1933f2ffbf)
 
-![image](https://github.com/user-attachments/assets/77814236-eb71-42d8-bad4-36dc53c3dc84)
+![image](https://github.com/user-attachments/assets/ca14e3d8-ebff-458f-89fa-e7880698cd90)
+
 
 
 ## RESULT:
